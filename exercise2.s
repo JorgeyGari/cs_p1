@@ -1,3 +1,6 @@
+# CODE BY: Laura Belizón Merchán and Jorge Lázaro Ruiz
+# USAGE OF THIS CODE IS STRICTLY FOR REFERENCE ONLY, DO NOT COPY
+
 .text
 modifymatrix:
 	li.s $f16 0 # We will use this later on
