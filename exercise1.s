@@ -1,3 +1,6 @@
+# CODE BY: Laura Belizón Merchán and Jorge Lázaro Ruiz
+# USAGE OF THIS CODE IS STRICTLY FOR REFERENCE ONLY, DO NOT COPY
+
 .text
 arraycompare: 
 # First, we move the arguments a0-a3 to registers t0-t3
